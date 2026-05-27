@@ -1,1 +1,1 @@
-# point of sales-software
+# demo-software
