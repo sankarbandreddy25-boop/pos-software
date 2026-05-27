@@ -1,1 +1,1 @@
-# pos-software
+# point of sales-software
